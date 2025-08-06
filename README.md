@@ -6,18 +6,18 @@
 > 🧠 The brand logo used in this project is **self-designed using Canva**, showcasing creativity and a personal touch in the overall branding.
 ## 🔗 Live Preview
 
-👉 [Visit the Live Site](https://minalduggal.github.io/PINK_MUSE/)  
+👉 [Visit the Live Site](https://minalduggal.github.io/Pink-Muse/) 
 
 ## 📁 Project Structure
 
-PINK_MUSE/
+```PINK_MUSE/
 ├── index.html          # Homepage
 ├── About.html          # About the brand
 ├── shop.html           # Shop/products section
 ├── ContactUs.html      # Contact form
 ├── style.css           # Centralized styling
 └── images/             # All visual assets
-
+```
 ## 🔍 What It Includes
 
 - **Homepage (index.html)**  
