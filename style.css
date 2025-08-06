@@ -513,10 +513,3 @@
 .send-button:active {
     transform: scale(0.95);
 }
-
-.divider {
-    border: none;
-    height: 2px;
-    background-color: #ffffff;
-    margin: 0;
-}
